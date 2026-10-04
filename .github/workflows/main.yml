@@ -24,5 +24,5 @@ jobs:
       with:
         context: .
         file: ./Dockerfile
-        tags: emaxx/test:latest
+        tags: emaxx/newtest:latest
         push: true
